@@ -1,0 +1,88 @@
+{
+    "task" : [
+        {
+            "id": "9001",
+            "wait_time": 0,
+            "cooldown": 0,
+            "repeatable": 1
+        },
+        {
+            "id": "9002",
+            "wait_time": 0,
+            "cooldown": 0,
+            "repeatable": 1
+        },
+        {
+            "id": "9003",
+            "wait_time": 0,
+            "cooldown": 0,
+            "repeatable": 1
+        },
+        {
+            "id": "1001",
+            "wait_time": 30,
+            "cooldown": 180,
+            "repeatable": 2
+        },
+        {
+            "id": "1002",
+            "wait_time": 20,
+            "cooldown": 5,
+            "repeatable": 5
+        },
+        {
+            "id": "1003",
+            "wait_time": 10,
+            "cooldown": 5,
+            "repeatable": 8
+        },
+        {
+            "id": "1004",
+            "wait_time": 20,
+            "cooldown": 6,
+            "repeatable": 8
+        },
+        {
+            "id": "1005",
+            "wait_time": 10,
+            "cooldown": 10,
+            "repeatable": 5
+        },
+        {
+            "id": "1006",
+            "wait_time": 30,
+            "cooldown": 15,
+            "repeatable": 5
+        },
+        {
+            "id": "2001",
+            "wait_time": 20,
+            "cooldown": 120,
+            "repeatable": 2
+        },
+        {
+            "id": "2002",
+            "wait_time": 10,
+            "cooldown": 2,
+            "repeatable": 8
+        },
+        {
+            "id": "2003",
+            "wait_time": 10,
+            "cooldown": 2,
+            "repeatable": 6
+        },
+        {
+            "id": "2004",
+            "wait_time": 20,
+            "cooldown": 5,
+            "repeatable": 5
+        },
+        {
+            "id": "2005",
+            "wait_time": 20,
+            "cooldown": 10,
+            "repeatable": 3
+        }
+    ]
+}

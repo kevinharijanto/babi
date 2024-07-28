@@ -1,0 +1,1 @@
+query_id=AAESS6IjAwAAABJLoiMeBMma&user=%7B%22id%22%3A7040289554%2C%22first_name%22%3A%22Kucing%22%2C%22last_name%22%3A%22Terbwank%22%2C%22username%22%3A%22iflycat77%22%2C%22language_code%22%3A%22en%22%2C%22is_premium%22%3Atrue%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1721745443&hash=6d4fa51377a23fb89ffd96c9228be07bc2c1e69e0d48fc660208c3eb1305dd16
